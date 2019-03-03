@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+        "@minpush/weapp-component": "*"
+    }
+}

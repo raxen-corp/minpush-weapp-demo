@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "minpush-hijack": "@minpush/weapp-component/hijack",
+    "minpush-middleware": "@minpush/weapp-component/middleware"
+  }
+}

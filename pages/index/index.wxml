@@ -1,0 +1,10 @@
+<view>
+  <minpush-hijack />
+  <view class="tabbar">
+    <minpush-middleware>
+      <view class='btn-container'>
+        <button class='btn-action' bindtap='onRequestLogin' open-type='getUserInfo'  bindgetuserinfo='onRequestUserInfo'>{{buttonText}}</button>
+      </view>
+    </minpush-middleware>
+  </view>
+</view>
